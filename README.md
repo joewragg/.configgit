@@ -1,2 +1,2 @@
 # .configgit
-badly up to date dot files
+badly out of date dot files
